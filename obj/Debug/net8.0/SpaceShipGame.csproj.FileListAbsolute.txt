@@ -1,0 +1,14 @@
+/Users/junzhang/Desktop/SpaceShipGame/bin/Debug/net8.0/SpaceShipGame
+/Users/junzhang/Desktop/SpaceShipGame/bin/Debug/net8.0/SpaceShipGame.deps.json
+/Users/junzhang/Desktop/SpaceShipGame/bin/Debug/net8.0/SpaceShipGame.runtimeconfig.json
+/Users/junzhang/Desktop/SpaceShipGame/bin/Debug/net8.0/SpaceShipGame.dll
+/Users/junzhang/Desktop/SpaceShipGame/bin/Debug/net8.0/SpaceShipGame.pdb
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.AssemblyInfoInputs.cache
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.AssemblyInfo.cs
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.csproj.CoreCompileInputs.cache
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.dll
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/refint/SpaceShipGame.dll
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.pdb
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/SpaceShipGame.genruntimeconfig.cache
+/Users/junzhang/Desktop/SpaceShipGame/obj/Debug/net8.0/ref/SpaceShipGame.dll
